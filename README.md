@@ -1,5 +1,7 @@
-# 深度学习训练与练习
+# 李沐动手学习深度笔记
 ## 关于李沐的课程m1环境安装
+课程地址：https://courses.d2l.ai/zh-v2/
+课程教材：https://zh-v2.d2l.ai/
 ### 引用自文章：
 [李沐-动手学深度学习d2l包安装及m1 gpu加速踩坑记录
 ](https://zhuanlan.zhihu.com/p/549737512)
